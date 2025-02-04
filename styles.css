@@ -1,8 +1,6 @@
-/* temp background color */
+/* Diagnostic Styling */
+
+/* Do Not below this line */
 body {
-    background: lightsalmon;
-  }
-/* Diagnotsic Styling */
-* {
-    outline: 1px dotted rgb(204, 204, 204);
-  }
+  height: 100vh;
+}
