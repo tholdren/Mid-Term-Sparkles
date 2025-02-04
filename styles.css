@@ -1,0 +1,8 @@
+/* temp background color */
+body {
+    background: lightsalmon;
+  }
+/* Diagnotsic Styling */
+* {
+    outline: 1px dotted rgb(204, 204, 204);
+  }
